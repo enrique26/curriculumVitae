@@ -1,0 +1,21 @@
+language: nodejs
+cache:
+  directories:
+    ~!@/.npm
+node_js:
+  - '9'
+git:
+  depth: 3
+script:
+  - yarn build
+  # - echo 'url-personalizada.com' > public/CNAME  #en caso de tener un dominio
+deploy:
+  provider: pages
+  skip-cleanup: true
+  kepp-history: true
+  github-token: $github_token
+  local-dir: dist/
+  target-branch: master
+  commit_message: "Deploy release ${TRAVIS_TAG}"
+  on:
+    branch: develop
