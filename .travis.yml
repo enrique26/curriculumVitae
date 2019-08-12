@@ -1,13 +1,13 @@
 language: nodejs
 cache:
   directories:
-    - ~/.npm
+    - node_modules #.npm
 node_js:
   - '9'
 git:
   depth: 3
 script:
-  - yarn build
+  - npm build
   # - echo 'url-personalizada.com' > public/CNAME  #en caso de tener un dominio
 deploy:
   provider: pages
