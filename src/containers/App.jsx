@@ -9,9 +9,18 @@ import Education from '../components/Education';
 import Experience from '../components/Experience';
 import Certificate from '../components/Certificate';
 import Skills from '../components/Skills';
-
+import { createGlobalStyle } from 'styled-components';
 import useGetData from '../hooks/useGetData';
 
+
+const GlobalStyle=createGlobalStyle`
+body{
+  font-family:'Lato',sans-serif;
+  margin:0;
+  padding:0;
+  background:#f5f5f5;
+}
+`;
 const App = () => {
 
   const data = useGetData();
@@ -22,6 +31,7 @@ const App = () => {
   }
   return(
     <Main>
+      <GlobalStyle></GlobalStyle>
       <Sidebar>
         <About
           avatar={data.avatar}
