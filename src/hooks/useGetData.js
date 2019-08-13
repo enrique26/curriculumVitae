@@ -1,6 +1,6 @@
 import {useState,useEffect} from 'react';
 
-const API = "https://raw.githubusercontent.com/enrique26/curriculumVitae/3a73409793ca7edb95bed007ef94af4f24cb732a/assets/content.json";
+const API = "https://raw.githubusercontent.com/enrique26/curriculumVitae/8162143ee7ca5661bc95d120f41dee9a709bfcb9/assets/content.json";
 
 
 const useGetData = () => {
