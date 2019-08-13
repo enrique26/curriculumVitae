@@ -57,7 +57,7 @@ const About = ({ ...props }) => (
     <div className="About-container">
       <AboutAvatar>
         <figure>
-          <AboutImage src={'../../assets/41794767_1923194041093263_5337428675614736384_n.jpg'} alt=""/>
+          <AboutImage src={'https://raw.githubusercontent.com/enrique26/curriculumVitae/dev/assets/4179n.jpg'} alt=""/>
         </figure>
       </AboutAvatar>
       <AboutName>
