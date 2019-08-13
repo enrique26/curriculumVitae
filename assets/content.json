@@ -15,11 +15,18 @@
    ],
    "experience":[
       {
-         "company":"PugStar",
+         "company":"CION",
          "endDate":"Present",
          "jobDescription":"create and mantain mobile aplications for enterprises requirements",
          "jobTitle":"mobile crossplatform developer",
          "startDate":"may 2018"
+      },
+      {
+         "company":"Negoapps",
+         "endDate":"Jan 2018",
+         "jobDescription":"Create web and mobile aplications including backend services for general public and enterprises",
+         "jobTitle":"mobile and web developer",
+         "startDate":"junio 2014"
       },
       {
          "company":"Negoapps",
@@ -46,7 +53,7 @@
       },
       {
          "name":"React",
-         "percentage":"70%"
+         "percentage":"60%"
       },
       {
          "name":"React-native",
@@ -66,6 +73,41 @@
       }
 
    ],
+   "projects":[
+     {
+       "name":"MBA-ipade",
+       "url":"http://mba-ipade.mx/",
+       "date":"september 2017",
+       "description":"web page for information",
+       "technologies":"HTML5,CSS,Js",
+       "responsabilities":"support for the website"
+     },
+     {
+       "name":"Verifikapp",
+       "url":"http://verifikapp.com/",
+       "date":"november 2017",
+       "description":"audit applications for ",
+       "technologies":"PHP, Titanium appcelerator",
+       "responsabilities":"bringed support and updating to the back-end services, and support for the mobile application"
+     },
+     {
+       "name":"ADT CRM",
+       "url":"",
+       "date":"july 2018",
+       "description":"CRM ",
+       "technologies":"PHP (codeingniter)",
+       "responsabilities":"Updating and adding new sections of the existing system"
+     },
+     {
+       "name":"Fractura-Sismo",
+       "url":"https://apps.apple.com/us/app/fractura-sismo/id1289406524",
+       "date":"september 2018",
+       "description":"Help the people afected by the tremor on México to report the damage in the buildings near to them.",
+       "technologies":"Titanium appcelerator",
+       "responsabilities":"Develop of the aplication"
+     }
+   ],
+
    "social":[
       {
          "name":"facebook",

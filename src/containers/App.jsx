@@ -11,7 +11,7 @@ import Certificate from '../components/Certificate';
 import Skills from '../components/Skills';
 import { createGlobalStyle } from 'styled-components';
 import useGetData from '../hooks/useGetData';
-
+import Projects from '../components/Projects';
 
 const GlobalStyle=createGlobalStyle`
 body{
@@ -48,6 +48,7 @@ const App = () => {
         <Education data={data.education} />
         <Experience data={data.experience} />
         <Certificate data={data.certificate} />
+        <Projects data={data.projects} />
         <Skills data={data.skills}/>
       </Info>
     </Main>

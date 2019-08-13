@@ -5,9 +5,8 @@ import Pstyled from '../styled/Pstyled';
 
 const Certificate = props =>(
   <div className="Certificate">
-    <H2styled name={"Certificate"} />
+    { props.data.length > 0 && <H2styled name={"Certificate"} />}
     <div className="Certificate-container">
-
       {
         props.data.map( (data, index)=>(
           <div className="Certificate-item" key={"CerIt"+index}>
