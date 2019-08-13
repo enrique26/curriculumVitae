@@ -1,6 +1,6 @@
 import {useState,useEffect} from 'react';
 
-const API = "https://us-central1-gndx-cv.cloudfunctions.net/me";
+const API = "https://raw.githubusercontent.com/enrique26/curriculumVitae/dev/assets/contentjson.txt";
 
 
 const useGetData = () => {

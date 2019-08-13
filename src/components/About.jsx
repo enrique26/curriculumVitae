@@ -57,7 +57,7 @@ const About = ({ ...props }) => (
     <div className="About-container">
       <AboutAvatar>
         <figure>
-          <AboutImage src={props.avatar} alt=""/>
+          <AboutImage src={'../../assets/41794767_1923194041093263_5337428675614736384_n.jpg'} alt=""/>
         </figure>
       </AboutAvatar>
       <AboutName>
