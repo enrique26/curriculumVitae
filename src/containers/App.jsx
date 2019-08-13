@@ -48,7 +48,7 @@ const App = () => {
         <Education data={data.education} />
         <Experience data={data.experience} />
         <Certificate data={data.certificate} />
-        <Projects data={data.projects} />
+        <Projects data={data.projects ? data.projects:[]} />
         <Skills data={data.skills}/>
       </Info>
     </Main>

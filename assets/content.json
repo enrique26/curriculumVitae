@@ -24,13 +24,6 @@
       {
          "company":"Negoapps",
          "endDate":"Jan 2018",
-         "jobDescription":"Create web and mobile aplications including backend services for general public and enterprises",
-         "jobTitle":"mobile and web developer",
-         "startDate":"junio 2014"
-      },
-      {
-         "company":"Negoapps",
-         "endDate":"Jan 2018",
          "jobDescription":"Create web and mobile aplications including backend services for enterprises requirements",
          "jobTitle":"mobile and web developer",
          "startDate":"junio 2014"
@@ -41,7 +34,7 @@
    "skills":[
       {
          "name":"HTML5",
-         "percentage":"75%"
+         "percentage":"65%"
       },
       {
          "name":"CSS",
@@ -75,20 +68,12 @@
    ],
    "projects":[
      {
-       "name":"MBA-ipade",
-       "url":"http://mba-ipade.mx/",
-       "date":"september 2017",
-       "description":"web page for information",
-       "technologies":"HTML5,CSS,Js",
-       "responsabilities":"support for the website"
-     },
-     {
-       "name":"Verifikapp",
-       "url":"http://verifikapp.com/",
-       "date":"november 2017",
-       "description":"audit applications for ",
-       "technologies":"PHP, Titanium appcelerator",
-       "responsabilities":"bringed support and updating to the back-end services, and support for the mobile application"
+       "name":"Chubb",
+       "url":"",
+       "date":"may 2018",
+       "description":"App for reportar accidentes viales para personas aseguradas",
+       "technologies":"Titanium appcelerator",
+       "responsabilities":"support for the android"
      },
      {
        "name":"ADT CRM",
@@ -104,8 +89,33 @@
        "date":"september 2018",
        "description":"Help the people afected by the tremor on México to report the damage in the buildings near to them.",
        "technologies":"Titanium appcelerator",
-       "responsabilities":"Develop of the aplication"
+       "responsabilities":"Develop of the aplication for IOS / android"
+     },
+     {
+       "name":"Mi cultivo bayer",
+       "url":"https://www.micultivo.bayer.com.mx/",
+       "date":"september 2017",
+       "description":"App with information and products for crops",
+       "technologies":"Titanium appcelerator",
+       "responsabilities":"support for the android / ios aplication"
+     },
+     {
+       "name":"MBA-ipade",
+       "url":"http://mba-ipade.mx/",
+       "date":"september 2017",
+       "description":"web page for information",
+       "technologies":"HTML5,CSS,Js",
+       "responsabilities":"support for the website"
+     },
+     {
+       "name":"Verifikapp",
+       "url":"http://verifikapp.com/",
+       "date":"november 2017",
+       "description":"audit application for enterprise ads",
+       "technologies":"PHP, Titanium appcelerator",
+       "responsabilities":"bringed support and updating the back-end services, and support for the mobile application android"
      }
+
    ],
 
    "social":[
