@@ -10,7 +10,7 @@
          "endDate":"Jan 2014",
          "institution":"IPN-UPIICSA",
          "startDate":"Jan 2010"
-      },
+      }
 
    ],
    "experience":[
@@ -63,7 +63,7 @@
       {
          "name":"Swift",
          "percentage":"30%"
-      },
+      }
 
    ],
    "social":[
