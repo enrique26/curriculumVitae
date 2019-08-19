@@ -59,6 +59,10 @@
       {
          "name":"Swift",
          "percentage":"30%"
+      },
+      {
+         "name":"Appcelerator",
+         "percentage":"80%"
       }
 
    ],
