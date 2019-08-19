@@ -71,7 +71,7 @@
        "name":"Chubb",
        "url":"",
        "date":"may 2018",
-       "description":"App for reportar accidentes viales para personas aseguradas",
+       "description":"(internal) Mobile application to report road accidentss",
        "technologies":"Titanium appcelerator",
        "responsabilities":"support for the android"
      },
@@ -79,7 +79,7 @@
        "name":"ADT CRM",
        "url":"",
        "date":"july 2018",
-       "description":"CRM ",
+       "description":"(internal) CRM ",
        "technologies":"PHP (codeingniter)",
        "responsabilities":"Updating and adding new sections of the existing system"
      },
