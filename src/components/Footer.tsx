@@ -13,7 +13,7 @@ export const Footer: FC<FooterProps> = ({contact}) => {
   const currentYear = new Date().getFullYear();
 
   return (
-    <footer className="bg-background-alt border-t-2 border-primary-light py-8">
+    <footer id="contact" className="bg-background-alt border-t-2 border-primary-light py-8">
       <div className="max-w-4xl mx-auto px-6 text-center">
         <p className="text-text-muted mb-4">
           Desarrollado con React, TypeScript y Tailwind CSS

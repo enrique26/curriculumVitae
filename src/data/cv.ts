@@ -5,7 +5,7 @@ export const cvData: CVData = {
     name: 'Hugo Erique Gachuz Montaño',
     title: 'Senior React & React Native Developer',
     description:
-      'Soy desarrollador Senior React, react Native con amplia experiencia en la creación de aplicaciones móviles empresariales para plataformas de banca, fidelización y comercio. Impulsando el desarrollo de funciones críticas, como flujos de pago seguros, promociones, puntos de fidelización e implementaciones multirregionales. Mejorando la usabilidad, la estabilidad y el rendimiento de la aplicación mediante una arquitectura basada en componentes y pruebas unitarias. Colaborando ​​estrechamente con los equipos de producto, backend y control de calidad para garantizar soluciones escalables y lanzamientos exitosos a producción.',
+      'I am a Senior React Native Developer with extensive experience delivering enterprise-grade mobile applications for banking, loyalty, and commerce platforms. I have led the development of critical features such as secure payment flows, promotions, loyalty points, and multi-region rollouts. I consistently improved application usability, stability, and performance through a component-driven architecture and comprehensive unit testing. I work closely with product, backend, and QA teams to deliver scalable solutions and ensure successful production releases',
     imageUrl: 'https://raw.githubusercontent.com/enrique26/curriculumVitae/refs/heads/dev/assets/4179n.jpg',
   },
   about: [
@@ -62,7 +62,7 @@ export const cvData: CVData = {
   ],
   contact:{
     github:'https://github.com/enrique26',
-    linkedin:'www.linkedin.com/in/hugo-enrique-gachuz-montaño-03990257',
+    linkedin:'https://www.linkedin.com/in/hugo-enrique-gachuz-monta%C3%B1o-03990257/',
     email:'ibilis_hegm@outlook.com',
   }
 };
