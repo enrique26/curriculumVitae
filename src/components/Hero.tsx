@@ -40,13 +40,13 @@ export const Hero: FC<HeroProps> = ({ name, title, description, imageUrl }) => {
               href="#experience"
               className="px-8 py-3 bg-primary text-white rounded-lg font-semibold hover:bg-primary-dark transition-colors duration-200"
             >
-              Ver Experiencia
+              Experience
             </a>
             <a
               href="#contact"
               className="px-8 py-3 border-2 border-primary text-primary rounded-lg font-semibold hover:bg-primary-light hover:text-white hover:border-primary-light transition-colors duration-200"
             >
-              Contactar
+              Contact
             </a>
           </div>
         </div>
